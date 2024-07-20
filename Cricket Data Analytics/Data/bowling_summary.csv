@@ -1,0 +1,501 @@
+match,bowlingTeam,bowlerName,overs,maiden,runs,wickets,economy,0s,4s,6s,wides,noBalls,match_id
+PAK vs ENG,ENG,Ben Stokes,4,0,32,1,8.00,6,1,0,2,1,T20I # 1879
+PAK vs ENG,ENG,Chris Woakes,3,0,26,0,8.66,7,2,1,2,0,T20I # 1879
+PAK vs ENG,ENG,Sam Curran,4,0,12,3,3.00,15,0,0,0,0,T20I # 1879
+PAK vs ENG,ENG,Adil Rashid,4,1,22,2,5.50,10,1,0,1,0,T20I # 1879
+PAK vs ENG,ENG,Chris Jordan,4,0,27,2,6.75,9,3,0,0,0,T20I # 1879
+PAK vs ENG,ENG,Liam Livingstone,1,0,16,0,16.00,1,1,1,1,0,T20I # 1879
+PAK vs ENG,PAK,Shaheen Shah Afridi,2.1,0,13,1,6.00,6,1,0,0,0,T20I # 1879
+PAK vs ENG,PAK,Naseem Shah,4,0,30,0,7.50,15,3,1,1,0,T20I # 1879
+PAK vs ENG,PAK,Haris Rauf,4,0,23,2,5.75,13,3,0,1,0,T20I # 1879
+PAK vs ENG,PAK,Shadab Khan,4,0,20,1,5.00,10,1,0,0,0,T20I # 1879
+PAK vs ENG,PAK,Mohammad Wasim,4,0,38,1,9.50,5,5,0,2,0,T20I # 1879
+PAK vs ENG,PAK,Iftikhar Ahmed,0.5,0,13,0,15.60,0,1,1,0,0,T20I # 1879
+IND vs ENG,ENG,Ben Stokes,2,0,18,0,9.00,5,2,1,0,0,T20I # 1878
+IND vs ENG,ENG,Chris Woakes,3,0,24,1,8.00,5,1,1,2,0,T20I # 1878
+IND vs ENG,ENG,Sam Curran,4,0,42,0,10.50,9,5,2,0,0,T20I # 1878
+IND vs ENG,ENG,Adil Rashid,4,0,20,1,5.00,8,1,0,0,0,T20I # 1878
+IND vs ENG,ENG,Liam Livingstone,3,0,21,0,7.00,7,3,0,0,0,T20I # 1878
+IND vs ENG,ENG,Chris Jordan,4,0,43,3,10.75,8,3,3,1,0,T20I # 1878
+IND vs ENG,IND,Bhuvneshwar Kumar,2,0,25,0,12.50,4,3,1,1,0,T20I # 1878
+IND vs ENG,IND,Arshdeep Singh,2,0,15,0,7.50,4,2,0,1,0,T20I # 1878
+IND vs ENG,IND,Axar Patel,4,0,30,0,7.50,10,2,2,0,0,T20I # 1878
+IND vs ENG,IND,Mohammed Shami,3,0,39,0,13.00,7,4,3,0,0,T20I # 1878
+IND vs ENG,IND,Ravichandran Ashwin,2,0,27,0,13.50,1,1,2,1,0,T20I # 1878
+IND vs ENG,IND,Hardik Pandya,3,0,34,0,11.33,5,1,2,0,0,T20I # 1878
+NZ vs PAK,PAK,Shaheen Shah Afridi,4,0,24,2,6.00,11,2,0,0,0,T20I # 1877
+NZ vs PAK,PAK,Naseem Shah,4,0,30,0,7.50,8,3,0,0,0,T20I # 1877
+NZ vs PAK,PAK,Haris Rauf,4,0,32,0,8.00,6,2,0,0,0,T20I # 1877
+NZ vs PAK,PAK,Mohammad Wasim,2,0,15,0,7.50,3,0,1,0,0,T20I # 1877
+NZ vs PAK,PAK,Shadab Khan,4,0,33,0,8.25,7,3,1,0,0,T20I # 1877
+NZ vs PAK,PAK,Mohammad Nawaz,2,0,12,1,6.00,2,0,0,0,0,T20I # 1877
+NZ vs PAK,NZ,Trent Boult,4,0,33,2,8.25,9,5,0,0,0,T20I # 1877
+NZ vs PAK,NZ,Tim Southee,3.1,0,24,0,7.57,7,3,0,2,0,T20I # 1877
+NZ vs PAK,NZ,Lockie Ferguson,4,0,37,0,9.25,7,4,1,1,0,T20I # 1877
+NZ vs PAK,NZ,Mitchell Santner,4,0,26,1,6.50,6,1,0,0,0,T20I # 1877
+NZ vs PAK,NZ,Ish Sodhi,4,0,26,0,6.50,4,1,0,0,0,T20I # 1877
+IND vs ZIM,ZIM,Richard Ngarava,4,1,44,1,11.00,12,2,4,1,1,T20I # 1873
+IND vs ZIM,ZIM,Tendai Chatara,4,0,34,0,8.50,5,3,1,0,0,T20I # 1873
+IND vs ZIM,ZIM,Blessing Muzarabani,4,0,50,1,12.50,5,8,0,1,0,T20I # 1873
+IND vs ZIM,ZIM,Wellington Masakadza,2,0,12,0,6.00,5,1,0,1,0,T20I # 1873
+IND vs ZIM,ZIM,Ryan Burl,1,0,14,0,14.00,1,1,1,0,0,T20I # 1873
+IND vs ZIM,ZIM,Sikandar Raza,3,0,18,1,6.00,5,0,1,0,0,T20I # 1873
+IND vs ZIM,ZIM,Sean Williams,2,0,9,2,4.50,6,0,0,2,0,T20I # 1873
+IND vs ZIM,IND,Bhuvneshwar Kumar,3,1,11,1,3.66,14,1,0,1,0,T20I # 1873
+IND vs ZIM,IND,Arshdeep Singh,2,0,9,1,4.50,9,1,0,2,0,T20I # 1873
+IND vs ZIM,IND,Mohammed Shami,2,0,14,2,7.00,7,1,1,0,0,T20I # 1873
+IND vs ZIM,IND,Hardik Pandya,3,0,16,2,5.33,10,1,0,2,1,T20I # 1873
+IND vs ZIM,IND,Ravichandran Ashwin,4,0,22,3,5.50,13,3,0,1,0,T20I # 1873
+IND vs ZIM,IND,Axar Patel,3.2,0,40,1,12.00,4,5,1,0,0,T20I # 1873
+BAN vs PAK,PAK,Shaheen Shah Afridi,4,0,22,4,5.50,13,2,1,0,0,T20I # 1872
+BAN vs PAK,PAK,Naseem Shah,3,0,15,0,5.00,9,2,0,0,0,T20I # 1872
+BAN vs PAK,PAK,Mohammad Wasim,2,0,19,0,9.50,5,1,1,1,0,T20I # 1872
+BAN vs PAK,PAK,Haris Rauf,4,0,21,1,5.25,11,2,0,0,0,T20I # 1872
+BAN vs PAK,PAK,Shadab Khan,4,0,30,2,7.50,8,3,0,0,0,T20I # 1872
+BAN vs PAK,PAK,Iftikhar Ahmed,3,0,15,1,5.00,9,2,0,0,0,T20I # 1872
+BAN vs PAK,BAN,Taskin Ahmed,3,0,26,0,8.66,10,1,2,0,1,T20I # 1872
+BAN vs PAK,BAN,Nasum Ahmed,4,0,14,1,3.50,13,0,0,2,0,T20I # 1872
+BAN vs PAK,BAN,Shakib Al Hasan,4,0,35,1,8.75,6,5,0,0,0,T20I # 1872
+BAN vs PAK,BAN,Mustafizur Rahman,4,0,21,1,5.25,8,0,0,0,0,T20I # 1872
+BAN vs PAK,BAN,Ebadot Hossain,3.1,0,25,1,7.89,7,1,1,0,1,T20I # 1872
+NED vs SA,SA,Wayne Parnell,4,0,32,0,8.00,10,2,2,1,0,T20I # 1871
+NED vs SA,SA,Kagiso Rabada,3,0,37,0,12.33,6,7,0,0,0,T20I # 1871
+NED vs SA,SA,Lungi Ngidi,3,0,35,0,11.66,3,5,0,0,0,T20I # 1871
+NED vs SA,SA,Anrich Nortje,4,0,10,1,2.50,14,0,0,0,0,T20I # 1871
+NED vs SA,SA,Keshav Maharaj,4,0,27,2,6.75,12,1,2,0,0,T20I # 1871
+NED vs SA,SA,Aiden Markram,2,0,16,1,8.00,3,0,1,1,0,T20I # 1871
+NED vs SA,NED,Fred Klaassen,4,0,20,2,5.00,15,3,0,0,0,T20I # 1871
+NED vs SA,NED,Paul van Meekeren,3,0,33,1,11.00,5,1,2,1,1,T20I # 1871
+NED vs SA,NED,Colin Ackermann,3,0,16,0,5.33,6,1,0,0,0,T20I # 1871
+NED vs SA,NED,Roelof van der Merwe,2,0,19,0,9.50,2,2,0,0,0,T20I # 1871
+NED vs SA,NED,Brandon Glover,2,0,9,3,4.50,5,0,0,1,0,T20I # 1871
+NED vs SA,NED,Logan van Beek,3,0,23,0,7.66,4,1,1,0,0,T20I # 1871
+NED vs SA,NED,Bas de Leede,3,0,25,2,8.33,4,1,0,1,2,T20I # 1871
+SL vs ENG,ENG,Ben Stokes,3,0,24,1,8.00,8,1,2,0,0,T20I # 1867
+SL vs ENG,ENG,Chris Woakes,3,0,24,1,8.00,5,3,0,1,0,T20I # 1867
+SL vs ENG,ENG,Mark Wood,3,0,26,3,8.66,8,1,2,1,0,T20I # 1867
+SL vs ENG,ENG,Sam Curran,4,0,27,1,6.75,10,2,1,0,0,T20I # 1867
+SL vs ENG,ENG,Adil Rashid,4,0,16,1,4.00,11,0,0,0,0,T20I # 1867
+SL vs ENG,ENG,Liam Livingstone,2,0,16,0,8.00,2,0,1,0,0,T20I # 1867
+SL vs ENG,ENG,Moeen Ali,1,0,5,0,5.00,1,0,0,0,0,T20I # 1867
+SL vs ENG,SL,Maheesh Theekshana,4,0,22,0,5.50,11,1,0,1,0,T20I # 1867
+SL vs ENG,SL,Kasun Rajitha,3,0,40,0,13.33,4,5,1,2,0,T20I # 1867
+SL vs ENG,SL,Lahiru Kumara,3.4,0,24,2,6.54,11,3,0,0,1,T20I # 1867
+SL vs ENG,SL,Wanindu Hasaranga,4,0,23,2,5.75,11,1,1,0,0,T20I # 1867
+SL vs ENG,SL,Dhananjaya de Silva,4,0,24,2,6.00,7,1,0,0,0,T20I # 1867
+SL vs ENG,SL,Charith Asalanka,1,0,8,0,8.00,1,1,0,0,0,T20I # 1867
+AUS vs AFG,AFG,Fazalhaq Farooqi,4,0,29,2,7.25,13,4,1,0,0,T20I # 1864
+AUS vs AFG,AFG,Mujeeb Ur Rahman,4,0,42,1,10.50,5,4,1,1,0,T20I # 1864
+AUS vs AFG,AFG,Naveen-ul-Haq,4,0,21,3,5.25,11,2,0,0,0,T20I # 1864
+AUS vs AFG,AFG,Gulbadin Naib,3,0,31,0,10.33,6,3,2,0,0,T20I # 1864
+AUS vs AFG,AFG,Rashid Khan,4,0,29,1,7.25,9,2,1,1,0,T20I # 1864
+AUS vs AFG,AFG,Mohammad Nabi,1,0,14,0,14.00,1,1,1,0,0,T20I # 1864
+AUS vs AFG,AUS,Josh Hazlewood,4,0,33,2,8.25,13,2,3,0,0,T20I # 1864
+AUS vs AFG,AUS,Pat Cummins,4,0,22,0,5.50,12,2,0,0,0,T20I # 1864
+AUS vs AFG,AUS,Marcus Stoinis,2,0,26,0,13.00,2,2,1,2,0,T20I # 1864
+AUS vs AFG,AUS,Kane Richardson,4,0,48,1,12.00,4,3,3,1,0,T20I # 1864
+AUS vs AFG,AUS,Adam Zampa,4,0,22,2,5.50,11,1,0,0,0,T20I # 1864
+AUS vs AFG,AUS,Cameron Green,2,0,13,0,6.50,7,1,1,0,0,T20I # 1864
+NZ vs IRE,IRE,Josh Little,4,0,22,3,5.50,10,2,0,1,0,T20I # 1862
+NZ vs IRE,IRE,Mark Adair,4,0,39,1,9.75,9,3,1,3,0,T20I # 1862
+NZ vs IRE,IRE,Barry McCarthy,4,0,46,0,11.50,4,4,2,0,0,T20I # 1862
+NZ vs IRE,IRE,Gareth Delany,4,0,30,2,7.50,11,3,1,1,0,T20I # 1862
+NZ vs IRE,IRE,Fionn Hand,2,0,22,0,11.00,2,2,1,0,0,T20I # 1862
+NZ vs IRE,IRE,George Dockrell,2,0,18,0,9.00,4,2,0,2,0,T20I # 1862
+NZ vs IRE,NZ,Trent Boult,4,0,38,0,9.50,8,4,1,0,0,T20I # 1862
+NZ vs IRE,NZ,Tim Southee,4,0,29,2,7.25,8,2,1,0,0,T20I # 1862
+NZ vs IRE,NZ,Lockie Ferguson,4,0,22,3,5.50,10,1,0,0,0,T20I # 1862
+NZ vs IRE,NZ,Mitchell Santner,4,0,26,2,6.50,12,3,1,0,0,T20I # 1862
+NZ vs IRE,NZ,Ish Sodhi,4,0,31,2,7.75,10,0,2,1,0,T20I # 1862
+PAK vs SA,SA,Wayne Parnell,4,0,31,1,7.75,10,3,1,0,0,T20I # 1861
+PAK vs SA,SA,Kagiso Rabada,4,0,44,1,11.00,7,4,2,0,0,T20I # 1861
+PAK vs SA,SA,Lungi Ngidi,4,0,32,1,8.00,11,3,1,2,0,T20I # 1861
+PAK vs SA,SA,Anrich Nortje,4,0,41,4,10.25,11,1,4,0,1,T20I # 1861
+PAK vs SA,SA,Tabraiz Shamsi,4,0,36,1,9.00,8,2,2,2,0,T20I # 1861
+PAK vs SA,PAK,Shaheen Shah Afridi,3,0,14,3,4.66,11,2,0,0,0,T20I # 1861
+PAK vs SA,PAK,Naseem Shah,3,0,19,1,6.33,10,1,1,1,0,T20I # 1861
+PAK vs SA,PAK,Haris Rauf,3,0,44,1,14.66,2,7,1,1,0,T20I # 1861
+PAK vs SA,PAK,Mohammad Wasim,2,0,13,1,6.50,3,1,0,0,0,T20I # 1861
+PAK vs SA,PAK,Shadab Khan,2,0,16,2,8.00,5,1,1,0,0,T20I # 1861
+PAK vs SA,PAK,Mohammad Nawaz,1,0,2,0,2.00,4,0,0,0,0,T20I # 1861
+IND vs BAN,BAN,Taskin Ahmed,4,0,15,0,3.75,16,2,0,0,0,T20I # 1860
+IND vs BAN,BAN,Shoriful Islam,4,0,57,0,14.25,7,4,4,2,2,T20I # 1860
+IND vs BAN,BAN,Hasan Mahmud,4,0,47,3,11.75,7,6,2,0,1,T20I # 1860
+IND vs BAN,BAN,Mustafizur Rahman,4,0,31,0,7.75,9,4,0,0,0,T20I # 1860
+IND vs BAN,BAN,Shakib Al Hasan,4,0,33,2,8.25,3,2,0,0,0,T20I # 1860
+IND vs BAN,IND,Bhuvneshwar Kumar,3,0,27,0,9.00,7,2,2,0,0,T20I # 1860
+IND vs BAN,IND,Arshdeep Singh,4,0,38,2,9.50,10,5,1,0,0,T20I # 1860
+IND vs BAN,IND,Mohammed Shami,3,0,25,1,8.33,7,2,1,0,0,T20I # 1860
+IND vs BAN,IND,Axar Patel,1,0,6,0,6.00,2,0,0,0,0,T20I # 1860
+IND vs BAN,IND,Ravichandran Ashwin,2,0,19,0,9.50,4,3,0,1,0,T20I # 1860
+IND vs BAN,IND,Hardik Pandya,3,0,28,2,9.33,8,1,3,0,0,T20I # 1860
+ZIM vs NED,NED,Fred Klaassen,4,0,17,1,4.25,17,0,1,2,0,T20I # 1859
+ZIM vs NED,NED,Paul van Meekeren,4,0,29,3,7.25,13,3,0,2,0,T20I # 1859
+ZIM vs NED,NED,Brandon Glover,4,1,29,2,7.25,15,2,2,2,0,T20I # 1859
+ZIM vs NED,NED,Logan van Beek,2.2,0,17,2,7.28,8,1,1,1,0,T20I # 1859
+ZIM vs NED,NED,Bas de Leede,4,0,14,2,3.50,11,0,0,0,0,T20I # 1859
+ZIM vs NED,NED,Roelof van der Merwe,1,0,8,0,8.00,2,1,0,0,0,T20I # 1859
+ZIM vs NED,ZIM,Tendai Chatara,4,0,22,0,5.50,14,4,0,0,0,T20I # 1859
+ZIM vs NED,ZIM,Richard Ngarava,4,0,18,2,4.50,15,1,1,0,0,T20I # 1859
+ZIM vs NED,ZIM,Blessing Muzarabani,4,0,23,2,5.75,14,2,1,1,0,T20I # 1859
+ZIM vs NED,ZIM,Sean Williams,3,0,21,0,7.00,8,2,1,0,0,T20I # 1859
+ZIM vs NED,ZIM,Sikandar Raza,1,0,6,0,6.00,0,0,0,0,0,T20I # 1859
+ZIM vs NED,ZIM,Luke Jongwe,2,0,25,1,12.50,3,4,0,3,1,T20I # 1859
+ENG vs NZ,NZ,Trent Boult,4,0,40,0,10.00,8,4,1,1,0,T20I # 1858
+ENG vs NZ,NZ,Tim Southee,4,0,43,1,10.75,9,3,3,0,0,T20I # 1858
+ENG vs NZ,NZ,Mitchell Santner,4,0,25,1,6.25,8,2,0,0,0,T20I # 1858
+ENG vs NZ,NZ,Lockie Ferguson,4,0,45,2,11.25,6,4,2,0,1,T20I # 1858
+ENG vs NZ,NZ,Ish Sodhi,4,0,23,1,5.75,10,2,0,0,0,T20I # 1858
+ENG vs NZ,ENG,Moeen Ali,1,0,4,0,4.00,3,0,0,0,0,T20I # 1858
+ENG vs NZ,ENG,Chris Woakes,4,0,33,2,8.25,9,1,2,1,0,T20I # 1858
+ENG vs NZ,ENG,Adil Rashid,4,0,33,0,8.25,6,0,2,0,0,T20I # 1858
+ENG vs NZ,ENG,Sam Curran,4,0,26,2,6.50,9,0,0,2,0,T20I # 1858
+ENG vs NZ,ENG,Mark Wood,3,0,25,1,8.33,8,2,1,1,0,T20I # 1858
+ENG vs NZ,ENG,Liam Livingstone,3,0,26,0,8.66,4,3,0,0,0,T20I # 1858
+ENG vs NZ,ENG,Ben Stokes,1,0,10,1,10.00,2,2,0,0,0,T20I # 1858
+AFG vs SL,SL,Kasun Rajitha,4,0,31,1,7.75,11,2,1,1,1,T20I # 1856
+AFG vs SL,SL,Pramod Madushan,3,0,24,0,8.00,7,2,1,0,0,T20I # 1856
+AFG vs SL,SL,Lahiru Kumara,4,0,30,2,7.50,12,2,1,4,0,T20I # 1856
+AFG vs SL,SL,Maheesh Theekshana,4,0,33,0,8.25,5,1,1,1,0,T20I # 1856
+AFG vs SL,SL,Wanindu Hasaranga,4,0,13,3,3.25,12,0,0,0,0,T20I # 1856
+AFG vs SL,SL,Dhananjaya de Silva,1,0,9,1,9.00,1,1,0,0,0,T20I # 1856
+AFG vs SL,AFG,Fazalhaq Farooqi,3.3,1,22,0,6.28,11,3,0,1,0,T20I # 1856
+AFG vs SL,AFG,Mujeeb Ur Rahman,4,0,24,2,6.00,12,3,0,0,0,T20I # 1856
+AFG vs SL,AFG,Fareed Ahmad,2,0,25,0,12.50,3,3,1,1,0,T20I # 1856
+AFG vs SL,AFG,Rashid Khan,4,0,31,2,7.75,10,2,1,1,0,T20I # 1856
+AFG vs SL,AFG,Azmatullah Omarzai,2,0,17,0,8.50,2,1,0,1,0,T20I # 1856
+AFG vs SL,AFG,Mohammad Nabi,2,0,16,0,8.00,2,0,1,0,0,T20I # 1856
+AFG vs SL,AFG,Gulbadin Naib,1,0,12,0,12.00,1,2,0,0,0,T20I # 1856
+AUS vs IRE,IRE,Josh Little,4,0,21,2,5.25,13,2,0,2,0,T20I # 1855
+AUS vs IRE,IRE,Mark Adair,4,0,59,0,14.75,6,7,2,6,0,T20I # 1855
+AUS vs IRE,IRE,Barry McCarthy,4,0,29,3,7.25,7,2,0,1,0,T20I # 1855
+AUS vs IRE,IRE,Gareth Delany,3,0,29,0,9.66,10,2,2,2,0,T20I # 1855
+AUS vs IRE,IRE,Fionn Hand,1,0,15,0,15.00,2,0,2,1,0,T20I # 1855
+AUS vs IRE,IRE,George Dockrell,4,0,24,0,6.00,8,0,1,0,0,T20I # 1855
+AUS vs IRE,AUS,Josh Hazlewood,3,0,24,0,8.00,8,1,2,1,0,T20I # 1855
+AUS vs IRE,AUS,Pat Cummins,4,0,28,2,7.00,14,3,1,1,0,T20I # 1855
+AUS vs IRE,AUS,Glenn Maxwell,2.1,0,14,2,6.46,6,2,0,0,0,T20I # 1855
+AUS vs IRE,AUS,Mitchell Starc,4,1,43,2,10.75,11,8,0,2,1,T20I # 1855
+AUS vs IRE,AUS,Adam Zampa,4,0,19,2,4.75,9,1,0,0,0,T20I # 1855
+AUS vs IRE,AUS,Marcus Stoinis,1,0,6,1,6.00,2,0,0,0,0,T20I # 1855
+IND vs SA,SA,Wayne Parnell,4,1,15,3,3.75,16,0,1,0,0,T20I # 1853
+IND vs SA,SA,Kagiso Rabada,4,0,26,0,6.50,13,2,1,1,0,T20I # 1853
+IND vs SA,SA,Lungi Ngidi,4,0,29,4,7.25,10,3,1,0,0,T20I # 1853
+IND vs SA,SA,Anrich Nortje,4,0,23,1,5.75,12,1,1,0,0,T20I # 1853
+IND vs SA,SA,Keshav Maharaj,3,0,28,0,9.33,5,3,1,0,0,T20I # 1853
+IND vs SA,SA,Aiden Markram,1,0,5,0,5.00,1,0,0,0,0,T20I # 1853
+IND vs SA,IND,Bhuvneshwar Kumar,3.4,0,21,0,5.72,13,2,1,0,0,T20I # 1853
+IND vs SA,IND,Arshdeep Singh,4,0,25,2,6.25,13,4,0,1,0,T20I # 1853
+IND vs SA,IND,Mohammed Shami,4,0,13,1,3.25,15,1,0,0,0,T20I # 1853
+IND vs SA,IND,Hardik Pandya,4,0,29,1,7.25,8,3,0,0,0,T20I # 1853
+IND vs SA,IND,Ravichandran Ashwin,4,0,43,1,10.75,5,1,4,0,0,T20I # 1853
+NED vs PAK,PAK,Shaheen Shah Afridi,4,0,19,1,4.75,13,1,0,1,0,T20I # 1852
+NED vs PAK,PAK,Naseem Shah,4,0,11,1,2.75,15,0,0,0,0,T20I # 1852
+NED vs PAK,PAK,Mohammad Wasim,3,0,15,2,5.00,10,1,0,1,0,T20I # 1852
+NED vs PAK,PAK,Haris Rauf,3,0,10,1,3.33,11,1,0,0,0,T20I # 1852
+NED vs PAK,PAK,Shadab Khan,4,0,22,3,5.50,11,2,0,0,0,T20I # 1852
+NED vs PAK,PAK,Mohammad Nawaz,2,0,11,0,5.50,3,0,0,0,0,T20I # 1852
+NED vs PAK,NED,Fred Klaassen,3,0,26,0,8.66,4,3,0,0,0,T20I # 1852
+NED vs PAK,NED,Paul van Meekeren,4,0,19,1,4.75,15,2,0,0,0,T20I # 1852
+NED vs PAK,NED,Brandon Glover,2.5,0,22,2,7.76,9,3,0,0,0,T20I # 1852
+NED vs PAK,NED,Tim Pringle,1,0,12,0,12.00,1,2,0,0,0,T20I # 1852
+NED vs PAK,NED,Logan van Beek,2,0,9,0,4.50,5,0,0,0,0,T20I # 1852
+NED vs PAK,NED,Roelof van der Merwe,1,0,7,0,7.00,1,0,0,0,0,T20I # 1852
+BAN vs ZIM,ZIM,Richard Ngarava,4,0,24,2,6.00,11,2,0,2,0,T20I # 1851
+BAN vs ZIM,ZIM,Blessing Muzarabani,2,0,13,2,6.50,8,3,0,0,0,T20I # 1851
+BAN vs ZIM,ZIM,Tendai Chatara,3,0,18,0,6.00,7,1,0,0,0,T20I # 1851
+BAN vs ZIM,ZIM,Sikandar Raza,4,0,35,1,8.75,2,2,1,0,0,T20I # 1851
+BAN vs ZIM,ZIM,Brad Evans,3,0,32,0,10.66,2,3,1,1,0,T20I # 1851
+BAN vs ZIM,ZIM,Wessly Madhevere,2,0,18,0,9.00,0,1,0,0,0,T20I # 1851
+BAN vs ZIM,ZIM,Sean Williams,2,0,10,1,5.00,4,0,0,1,0,T20I # 1851
+BAN vs ZIM,BAN,Taskin Ahmed,4,1,19,3,4.75,15,3,0,0,0,T20I # 1851
+BAN vs ZIM,BAN,Hasan Mahmud,4,0,36,0,9.00,8,5,0,3,0,T20I # 1851
+BAN vs ZIM,BAN,Mosaddek Hossain,4,0,34,2,8.50,11,3,2,0,1,T20I # 1851
+BAN vs ZIM,BAN,Mustafizur Rahman,4,0,15,2,3.75,11,0,0,0,0,T20I # 1851
+BAN vs ZIM,BAN,Shakib Al Hasan,4,0,34,0,8.50,5,3,0,0,0,T20I # 1851
+NZ vs SL,SL,Maheesh Theekshana,4,0,35,1,8.75,7,2,2,1,0,T20I # 1850
+NZ vs SL,SL,Kasun Rajitha,4,0,23,2,5.75,16,3,0,1,2,T20I # 1850
+NZ vs SL,SL,Dhananjaya de Silva,2,0,14,1,7.00,4,1,0,0,0,T20I # 1850
+NZ vs SL,SL,Wanindu Hasaranga,4,0,22,1,5.50,9,1,0,0,0,T20I # 1850
+NZ vs SL,SL,Lahiru Kumara,3,0,37,1,12.33,2,2,2,2,1,T20I # 1850
+NZ vs SL,SL,Chamika Karunaratne,3,0,34,0,11.33,5,3,1,1,0,T20I # 1850
+NZ vs SL,NZ,Tim Southee,4,1,12,1,3.00,18,0,1,1,0,T20I # 1850
+NZ vs SL,NZ,Trent Boult,4,0,13,4,3.25,18,1,0,1,0,T20I # 1850
+NZ vs SL,NZ,Lockie Ferguson,4,0,35,1,8.75,11,4,1,3,0,T20I # 1850
+NZ vs SL,NZ,Mitchell Santner,4,0,21,2,5.25,13,3,0,0,0,T20I # 1850
+NZ vs SL,NZ,Ish Sodhi,3.2,0,21,2,6.30,11,2,1,1,0,T20I # 1850
+ZIM vs PAK,PAK,Shaheen Shah Afridi,4,0,29,0,7.25,9,3,0,0,0,T20I # 1849
+ZIM vs PAK,PAK,Naseem Shah,4,0,34,0,8.50,7,4,0,2,0,T20I # 1849
+ZIM vs PAK,PAK,Mohammad Wasim,4,0,24,4,6.00,16,2,1,4,0,T20I # 1849
+ZIM vs PAK,PAK,Haris Rauf,4,1,12,1,3.00,15,0,0,0,0,T20I # 1849
+ZIM vs PAK,PAK,Shadab Khan,4,0,23,3,5.75,8,1,0,0,0,T20I # 1849
+ZIM vs PAK,ZIM,Richard Ngarava,4,0,24,0,6.00,15,2,1,2,0,T20I # 1849
+ZIM vs PAK,ZIM,Blessing Muzarabani,4,0,18,1,4.50,11,1,0,0,0,T20I # 1849
+ZIM vs PAK,ZIM,Brad Evans,4,0,25,2,6.25,12,2,1,0,0,T20I # 1849
+ZIM vs PAK,ZIM,Sikandar Raza,4,0,25,3,6.25,13,2,1,2,0,T20I # 1849
+ZIM vs PAK,ZIM,Luke Jongwe,1,0,10,1,10.00,2,2,0,0,0,T20I # 1849
+ZIM vs PAK,ZIM,Sean Williams,2,0,15,0,7.50,1,0,0,1,0,T20I # 1849
+ZIM vs PAK,ZIM,Ryan Burl,1,0,7,0,7.00,0,0,0,0,0,T20I # 1849
+IND vs NED,NED,Fred Klaassen,4,0,33,1,8.25,9,2,1,2,0,T20I # 1848
+IND vs NED,NED,Tim Pringle,4,0,30,0,7.50,6,3,0,0,0,T20I # 1848
+IND vs NED,NED,Paul van Meekeren,4,0,32,1,8.00,9,3,1,0,0,T20I # 1848
+IND vs NED,NED,Bas de Leede,3,0,33,0,11.00,6,5,1,1,0,T20I # 1848
+IND vs NED,NED,Logan van Beek,4,0,45,0,11.25,3,2,3,0,0,T20I # 1848
+IND vs NED,NED,Shariz Ahmad,1,0,5,0,5.00,2,0,0,0,0,T20I # 1848
+IND vs NED,IND,Bhuvneshwar Kumar,3,2,9,2,3.00,14,1,0,0,0,T20I # 1848
+IND vs NED,IND,Arshdeep Singh,4,0,37,2,9.25,9,6,0,1,1,T20I # 1848
+IND vs NED,IND,Mohammed Shami,4,0,27,1,6.75,10,2,0,0,0,T20I # 1848
+IND vs NED,IND,Axar Patel,4,0,18,2,4.50,11,0,0,0,0,T20I # 1848
+IND vs NED,IND,Hardik Pandya,1,0,9,0,9.00,1,0,0,1,0,T20I # 1848
+IND vs NED,IND,Ravichandran Ashwin,4,0,21,2,5.25,13,1,1,1,0,T20I # 1848
+SA vs BAN,BAN,Taskin Ahmed,3,0,46,1,15.33,7,6,2,0,3,T20I # 1847
+SA vs BAN,BAN,Mehidy Hasan Miraz,3,0,32,0,10.66,4,2,2,0,0,T20I # 1847
+SA vs BAN,BAN,Hasan Mahmud,4,0,36,1,9.00,11,3,2,2,0,T20I # 1847
+SA vs BAN,BAN,Mustafizur Rahman,4,0,25,0,6.25,7,1,1,0,0,T20I # 1847
+SA vs BAN,BAN,Mosaddek Hossain,2,0,16,0,8.00,5,1,1,0,0,T20I # 1847
+SA vs BAN,BAN,Shakib Al Hasan,3,0,33,2,11.00,7,1,3,0,1,T20I # 1847
+SA vs BAN,BAN,Afif Hossain,1,0,11,1,11.00,1,2,0,0,0,T20I # 1847
+SA vs BAN,SA,Kagiso Rabada,3,0,24,1,8.00,8,1,2,1,0,T20I # 1847
+SA vs BAN,SA,Wayne Parnell,2,0,18,0,9.00,3,0,1,1,0,T20I # 1847
+SA vs BAN,SA,Anrich Nortje,3.3,0,10,4,2.85,16,1,0,0,0,T20I # 1847
+SA vs BAN,SA,Keshav Maharaj,4,0,24,1,6.00,6,1,0,0,0,T20I # 1847
+SA vs BAN,SA,Tabraiz Shamsi,4,0,20,3,5.00,12,0,1,2,0,T20I # 1847
+IRE vs ENG,ENG,Ben Stokes,2.2,0,8,1,3.42,7,0,0,0,0,T20I # 1846
+IRE vs ENG,ENG,Chris Woakes,3,0,41,0,13.66,4,6,1,2,0,T20I # 1846
+IRE vs ENG,ENG,Mark Wood,4,0,34,3,8.50,13,4,1,2,0,T20I # 1846
+IRE vs ENG,ENG,Sam Curran,3,0,31,2,10.33,7,1,2,0,0,T20I # 1846
+IRE vs ENG,ENG,Adil Rashid,4,0,24,0,6.00,6,1,0,0,0,T20I # 1846
+IRE vs ENG,ENG,Liam Livingstone,3,0,17,3,5.66,5,1,0,0,0,T20I # 1846
+IRE vs ENG,IRE,Josh Little,3,0,16,2,5.33,11,2,0,2,0,T20I # 1846
+IRE vs ENG,IRE,Mark Adair,2,0,10,0,5.00,5,0,0,0,0,T20I # 1846
+IRE vs ENG,IRE,Barry McCarthy,3,0,20,1,6.66,7,1,0,3,0,T20I # 1846
+IRE vs ENG,IRE,Fionn Hand,2,0,17,1,8.50,6,1,0,4,0,T20I # 1846
+IRE vs ENG,IRE,Gareth Delany,3.3,0,33,0,9.42,5,3,1,1,0,T20I # 1846
+IRE vs ENG,IRE,George Dockrell,1,0,5,1,5.00,2,0,0,0,0,T20I # 1846
+SL vs AUS,AUS,Josh Hazlewood,4,0,26,1,6.50,13,3,0,3,0,T20I # 1845
+SL vs AUS,AUS,Pat Cummins,4,0,36,1,9.00,12,5,1,2,0,T20I # 1845
+SL vs AUS,AUS,Mitchell Starc,4,0,23,1,5.75,13,1,0,1,0,T20I # 1845
+SL vs AUS,AUS,Ashton Agar,4,0,25,1,6.25,8,1,0,1,0,T20I # 1845
+SL vs AUS,AUS,Marcus Stoinis,2,0,17,0,8.50,1,1,0,1,0,T20I # 1845
+SL vs AUS,AUS,Mitchell Marsh,1,0,14,0,14.00,1,1,1,0,0,T20I # 1845
+SL vs AUS,AUS,Glenn Maxwell,1,0,5,1,5.00,2,0,0,0,0,T20I # 1845
+SL vs AUS,SL,Binura Fernando,0.5,0,5,0,6.00,2,0,0,0,0,T20I # 1845
+SL vs AUS,SL,Dhananjaya de Silva,2.1,0,18,1,8.30,4,1,1,0,0,T20I # 1845
+SL vs AUS,SL,Lahiru Kumara,3.3,0,22,0,6.28,15,0,1,3,0,T20I # 1845
+SL vs AUS,SL,Chamika Karunaratne,3,0,20,1,6.66,6,1,0,1,0,T20I # 1845
+SL vs AUS,SL,Maheesh Theekshana,3,0,23,1,7.66,11,0,3,1,0,T20I # 1845
+SL vs AUS,SL,Wanindu Hasaranga,3,0,53,0,17.66,0,3,5,0,0,T20I # 1845
+SL vs AUS,SL,Dasun Shanaka,1,0,10,0,10.00,2,2,0,0,0,T20I # 1845
+ZIM vs SA,SA,Kagiso Rabada,2,0,20,0,10.00,4,2,1,0,0,T20I # 1844
+ZIM vs SA,SA,Wayne Parnell,2,0,6,1,3.00,9,1,0,0,0,T20I # 1844
+ZIM vs SA,SA,Lungi Ngidi,2,0,20,2,10.00,6,2,1,2,0,T20I # 1844
+ZIM vs SA,SA,Keshav Maharaj,1,0,10,0,10.00,1,1,0,0,0,T20I # 1844
+ZIM vs SA,SA,Anrich Nortje,2,0,10,1,5.00,5,0,0,0,0,T20I # 1844
+ZIM vs SA,ZIM,Tendai Chatara,1,0,23,0,23.00,0,4,1,0,0,T20I # 1844
+ZIM vs SA,ZIM,Richard Ngarava,1,0,17,0,17.00,2,4,0,0,1,T20I # 1844
+ZIM vs SA,ZIM,Sikandar Raza,1,0,11,0,11.00,1,0,0,0,1,T20I # 1844
+BAN vs NED,NED,Fred Klaassen,4,0,33,1,8.25,10,5,0,3,0,T20I # 1843
+BAN vs NED,NED,Colin Ackermann,1,0,4,0,4.00,2,0,0,0,0,T20I # 1843
+BAN vs NED,NED,Paul van Meekeren,4,0,21,2,5.25,10,1,0,0,0,T20I # 1843
+BAN vs NED,NED,Bas de Leede,3,0,29,2,9.66,9,3,1,3,0,T20I # 1843
+BAN vs NED,NED,Tim Pringle,2,0,10,1,5.00,4,0,0,0,0,T20I # 1843
+BAN vs NED,NED,Shariz Ahmad,3,0,27,1,9.00,5,1,2,0,0,T20I # 1843
+BAN vs NED,NED,Logan van Beek,3,0,12,1,4.00,7,0,0,1,0,T20I # 1843
+BAN vs NED,BAN,Taskin Ahmed,4,0,25,4,6.25,16,5,0,0,0,T20I # 1843
+BAN vs NED,BAN,Hasan Mahmud,4,1,15,2,3.75,16,2,0,0,0,T20I # 1843
+BAN vs NED,BAN,Shakib Al Hasan,4,0,32,1,8.00,6,0,2,1,0,T20I # 1843
+BAN vs NED,BAN,Mustafizur Rahman,4,0,20,0,5.00,14,2,0,2,0,T20I # 1843
+BAN vs NED,BAN,Soumya Sarkar,3,0,29,1,9.66,5,2,1,1,0,T20I # 1843
+BAN vs NED,BAN,Mosaddek Hossain,1,0,14,0,14.00,0,0,1,0,1,T20I # 1843
+PAK vs IND,IND,Bhuvneshwar Kumar,4,0,22,1,5.50,17,1,1,3,0,T20I # 1842
+PAK vs IND,IND,Arshdeep Singh,4,0,32,3,8.00,10,3,1,1,0,T20I # 1842
+PAK vs IND,IND,Mohammed Shami,4,0,25,1,6.25,14,4,0,1,0,T20I # 1842
+PAK vs IND,IND,Hardik Pandya,4,0,30,3,7.50,10,4,0,0,0,T20I # 1842
+PAK vs IND,IND,Ravichandran Ashwin,3,0,23,0,7.66,5,0,1,1,0,T20I # 1842
+PAK vs IND,IND,Axar Patel,1,0,21,0,21.00,2,0,3,0,0,T20I # 1842
+PAK vs IND,PAK,Shaheen Shah Afridi,4,0,34,0,8.50,7,4,0,1,0,T20I # 1842
+PAK vs IND,PAK,Naseem Shah,4,0,23,1,5.75,10,1,0,0,0,T20I # 1842
+PAK vs IND,PAK,Haris Rauf,4,0,36,2,9.00,11,2,2,1,0,T20I # 1842
+PAK vs IND,PAK,Shadab Khan,4,0,21,0,5.25,10,2,0,0,0,T20I # 1842
+PAK vs IND,PAK,Mohammad Nawaz,4,0,42,2,10.50,8,0,4,2,1,T20I # 1842
+IRE vs SL,SL,Binura Fernando,4,0,27,1,6.75,10,3,0,1,0,T20I # 1841
+IRE vs SL,SL,Lahiru Kumara,2,0,12,1,6.00,6,2,0,0,0,T20I # 1841
+IRE vs SL,SL,Maheesh Theekshana,4,0,19,2,4.75,8,1,0,0,0,T20I # 1841
+IRE vs SL,SL,Chamika Karunaratne,4,0,29,1,7.25,7,2,1,0,0,T20I # 1841
+IRE vs SL,SL,Wanindu Hasaranga,4,0,25,2,6.25,6,0,1,0,0,T20I # 1841
+IRE vs SL,SL,Dhananjaya de Silva,2,0,13,1,6.50,3,1,0,0,0,T20I # 1841
+IRE vs SL,IRE,Josh Little,4,0,45,0,11.25,5,4,1,1,0,T20I # 1841
+IRE vs SL,IRE,Mark Adair,2,0,16,0,8.00,2,1,0,0,0,T20I # 1841
+IRE vs SL,IRE,Barry McCarthy,2,0,16,0,8.00,4,0,1,0,0,T20I # 1841
+IRE vs SL,IRE,Gareth Delany,4,0,28,1,7.00,8,3,0,2,0,T20I # 1841
+IRE vs SL,IRE,Curtis Campher,1,0,8,0,8.00,2,1,0,0,0,T20I # 1841
+IRE vs SL,IRE,Simi Singh,2,0,20,0,10.00,3,0,2,0,0,T20I # 1841
+AFG vs ENG,ENG,Ben Stokes,4,0,19,2,4.75,14,2,0,1,0,T20I # 1840
+AFG vs ENG,ENG,Chris Woakes,4,0,24,1,6.00,15,2,1,1,0,T20I # 1840
+AFG vs ENG,ENG,Mark Wood,4,0,23,2,5.75,14,2,1,0,0,T20I # 1840
+AFG vs ENG,ENG,Sam Curran,3.4,0,10,5,2.72,16,1,0,1,0,T20I # 1840
+AFG vs ENG,ENG,Adil Rashid,4,0,32,0,8.00,4,1,1,0,0,T20I # 1840
+AFG vs ENG,AFG,Fazalhaq Farooqi,4,0,24,1,6.00,15,2,1,3,0,T20I # 1840
+AFG vs ENG,AFG,Azmatullah Omarzai,1.1,0,11,0,9.42,2,1,0,3,0,T20I # 1840
+AFG vs ENG,AFG,Mujeeb Ur Rahman,4,0,22,1,5.50,10,1,0,0,0,T20I # 1840
+AFG vs ENG,AFG,Rashid Khan,4,0,17,1,4.25,10,0,0,0,0,T20I # 1840
+AFG vs ENG,AFG,Fareed Ahmad,2,0,23,1,11.50,2,2,0,1,0,T20I # 1840
+AFG vs ENG,AFG,Mohammad Nabi,3,0,16,1,5.33,6,0,0,0,0,T20I # 1840
+NZ vs AUS,AUS,Mitchell Starc,4,0,36,0,9.00,5,3,1,0,0,T20I # 1839
+NZ vs AUS,AUS,Josh Hazlewood,4,0,41,2,10.25,8,5,1,1,0,T20I # 1839
+NZ vs AUS,AUS,Pat Cummins,4,0,46,0,11.50,8,4,2,2,0,T20I # 1839
+NZ vs AUS,AUS,Marcus Stoinis,4,0,38,0,9.50,3,1,2,1,0,T20I # 1839
+NZ vs AUS,AUS,Adam Zampa,4,0,39,1,9.75,4,2,2,1,0,T20I # 1839
+NZ vs AUS,NZ,Trent Boult,4,0,24,2,6.00,13,2,1,1,0,T20I # 1839
+NZ vs AUS,NZ,Tim Southee,2.1,0,6,3,2.76,10,1,0,0,0,T20I # 1839
+NZ vs AUS,NZ,Mitchell Santner,4,0,31,3,7.75,10,2,2,0,0,T20I # 1839
+NZ vs AUS,NZ,Lockie Ferguson,3,0,20,1,6.66,9,2,1,0,0,T20I # 1839
+NZ vs AUS,NZ,Ish Sodhi,4,0,29,1,7.25,8,2,1,1,0,T20I # 1839
+SCOT vs ZIM,ZIM,Tendai Chatara,4,1,14,2,3.50,14,1,0,0,0,T20I # 1838
+SCOT vs ZIM,ZIM,Richard Ngarava,4,0,28,2,7.00,12,4,0,1,1,T20I # 1838
+SCOT vs ZIM,ZIM,Blessing Muzarabani,4,0,34,1,8.50,9,5,0,0,2,T20I # 1838
+SCOT vs ZIM,ZIM,Sean Williams,3,0,19,0,6.33,4,1,0,0,0,T20I # 1838
+SCOT vs ZIM,ZIM,Sikandar Raza,4,0,20,1,5.00,10,0,0,2,0,T20I # 1838
+SCOT vs ZIM,ZIM,Wessly Madhevere,1,0,7,0,7.00,1,0,0,0,0,T20I # 1838
+SCOT vs ZIM,SCOT,Brad Wheal,4,0,26,1,6.50,12,4,0,0,0,T20I # 1838
+SCOT vs ZIM,SCOT,Josh Davey,3,0,16,2,5.33,8,1,0,0,1,T20I # 1838
+SCOT vs ZIM,SCOT,Safyaan Sharif,2.3,0,23,0,9.20,4,3,0,0,1,T20I # 1838
+SCOT vs ZIM,SCOT,Mark Watt,4,0,19,1,4.75,9,1,0,0,0,T20I # 1838
+SCOT vs ZIM,SCOT,Michael Leask,4,0,36,1,9.00,4,2,1,0,0,T20I # 1838
+SCOT vs ZIM,SCOT,Calum MacLeod,1,0,11,0,11.00,0,0,1,0,0,T20I # 1838
+WI vs IRE,IRE,Josh Little,4,0,31,0,7.75,8,1,2,1,0,T20I # 1837
+WI vs IRE,IRE,Mark Adair,4,0,26,0,6.50,12,1,1,4,0,T20I # 1837
+WI vs IRE,IRE,Barry McCarthy,4,0,33,1,8.25,9,3,1,1,0,T20I # 1837
+WI vs IRE,IRE,Curtis Campher,2,0,28,0,14.00,2,4,1,0,0,T20I # 1837
+WI vs IRE,IRE,Simi Singh,2,0,11,1,5.50,4,1,0,0,0,T20I # 1837
+WI vs IRE,IRE,Gareth Delany,4,0,16,3,4.00,12,1,0,1,0,T20I # 1837
+WI vs IRE,WI,Obed McCoy,3.3,0,27,0,7.71,11,2,2,0,0,T20I # 1837
+WI vs IRE,WI,Akeal Hosein,4,0,38,1,9.50,5,2,2,0,0,T20I # 1837
+WI vs IRE,WI,Alzarri Joseph,4,0,39,0,9.75,9,3,2,1,0,T20I # 1837
+WI vs IRE,WI,Odean Smith,2,0,23,0,11.50,4,3,1,0,1,T20I # 1837
+WI vs IRE,WI,Jason Holder,4,0,23,0,5.75,7,1,0,0,0,T20I # 1837
+UAE vs NAM,NAM,Ruben Trumpelmann,4,0,22,0,5.50,10,0,0,3,0,T20I # 1836
+UAE vs NAM,NAM,David Wiese,4,0,27,1,6.75,12,2,1,1,0,T20I # 1836
+UAE vs NAM,NAM,Bernard Scholtz,4,0,22,1,5.50,11,1,1,0,0,T20I # 1836
+UAE vs NAM,NAM,JJ Smit,4,0,39,0,9.75,11,2,3,0,0,T20I # 1836
+UAE vs NAM,NAM,Jan Frylinck,3,0,30,0,10.00,3,2,1,1,0,T20I # 1836
+UAE vs NAM,NAM,Ben Shikongo,1,0,8,1,8.00,1,1,0,0,0,T20I # 1836
+UAE vs NAM,UAE,Basil Hameed,3,0,17,2,5.66,10,2,0,0,0,T20I # 1836
+UAE vs NAM,UAE,Junaid Siddique,4,0,35,1,8.75,8,3,1,2,0,T20I # 1836
+UAE vs NAM,UAE,Zahoor Khan,4,0,20,2,5.00,15,1,0,2,2,T20I # 1836
+UAE vs NAM,UAE,Ahmed Raza,1,0,9,0,9.00,1,1,0,0,0,T20I # 1836
+UAE vs NAM,UAE,Karthik Meiyappan,4,0,34,1,8.50,8,2,2,0,0,T20I # 1836
+UAE vs NAM,UAE,Aayan Afzal Khan,2,0,7,0,3.50,5,0,0,0,0,T20I # 1836
+UAE vs NAM,UAE,Muhammad Waseem,2,0,16,1,8.00,3,0,1,0,0,T20I # 1836
+SL vs NED,NED,Fred Klaassen,4,0,34,1,8.50,9,1,2,0,0,T20I # 1835
+SL vs NED,NED,Tim Pringle,3,0,22,0,7.33,8,0,2,0,0,T20I # 1835
+SL vs NED,NED,Roelof van der Merwe,3,0,16,0,5.33,10,2,0,0,0,T20I # 1835
+SL vs NED,NED,Paul van Meekeren,4,0,25,2,6.25,11,3,0,1,0,T20I # 1835
+SL vs NED,NED,Bas de Leede,3,0,31,2,10.33,5,2,2,0,0,T20I # 1835
+SL vs NED,NED,Timm van der Gugten,3,0,31,1,10.33,3,2,1,0,0,T20I # 1835
+SL vs NED,SL,Dhananjaya de Silva,1,0,5,0,5.00,1,0,0,0,0,T20I # 1835
+SL vs NED,SL,Lahiru Kumara,4,0,28,1,7.00,14,2,1,1,0,T20I # 1835
+SL vs NED,SL,Binura Fernando,4,0,33,1,8.25,11,4,1,1,0,T20I # 1835
+SL vs NED,SL,Maheesh Theekshana,4,0,32,2,8.00,12,1,2,2,1,T20I # 1835
+SL vs NED,SL,Wanindu Hasaranga,4,0,28,3,7.00,11,3,0,0,0,T20I # 1835
+SL vs NED,SL,Chamika Karunaratne,2,0,11,0,5.50,6,1,0,1,0,T20I # 1835
+SL vs NED,SL,Dasun Shanaka,1,0,7,0,7.00,3,1,0,0,0,T20I # 1835
+WI vs ZIM,ZIM,Richard Ngarava,3,0,20,0,6.66,9,1,1,1,0,T20I # 1834
+WI vs ZIM,ZIM,Tendai Chatara,3,0,22,0,7.33,5,2,0,2,0,T20I # 1834
+WI vs ZIM,ZIM,Blessing Muzarabani,4,0,38,2,9.50,10,2,2,2,1,T20I # 1834
+WI vs ZIM,ZIM,Ryan Burl,3,0,27,0,9.00,5,3,1,0,0,T20I # 1834
+WI vs ZIM,ZIM,Sikandar Raza,4,0,19,3,4.75,7,0,0,0,0,T20I # 1834
+WI vs ZIM,ZIM,Sean Williams,3,0,17,1,5.66,7,1,0,0,1,T20I # 1834
+WI vs ZIM,WI,Kyle Mayers,1,0,17,0,17.00,3,3,0,1,0,T20I # 1834
+WI vs ZIM,WI,Akeal Hosein,4,0,25,1,6.25,12,1,1,1,1,T20I # 1834
+WI vs ZIM,WI,Alzarri Joseph,4,0,16,4,4.00,16,1,1,0,0,T20I # 1834
+WI vs ZIM,WI,Obed McCoy,3,0,19,1,6.33,9,3,0,0,0,T20I # 1834
+WI vs ZIM,WI,Jason Holder,3.2,0,12,3,3.60,12,1,0,0,0,T20I # 1834
+WI vs ZIM,WI,Odean Smith,3,0,31,1,10.33,8,4,1,1,1,T20I # 1834
+SCOT vs IRE,IRE,Josh Little,4,0,30,1,7.50,10,2,1,1,0,T20I # 1833
+SCOT vs IRE,IRE,Mark Adair,4,0,23,1,5.75,12,2,0,2,0,T20I # 1833
+SCOT vs IRE,IRE,Barry McCarthy,4,0,59,0,14.75,4,6,3,1,1,T20I # 1833
+SCOT vs IRE,IRE,Gareth Delany,3,0,28,0,9.33,3,2,1,0,0,T20I # 1833
+SCOT vs IRE,IRE,Simi Singh,2,0,16,0,8.00,2,2,0,0,0,T20I # 1833
+SCOT vs IRE,IRE,Curtis Campher,2,0,9,2,4.50,7,1,0,0,0,T20I # 1833
+SCOT vs IRE,IRE,George Dockrell,1,0,9,0,9.00,1,1,0,0,0,T20I # 1833
+SCOT vs IRE,SCOT,Mark Watt,4,0,39,1,9.75,10,2,1,2,0,T20I # 1833
+SCOT vs IRE,SCOT,Brad Wheal,4,0,25,1,6.25,11,2,1,0,0,T20I # 1833
+SCOT vs IRE,SCOT,Josh Davey,4,0,46,0,11.50,5,8,0,1,0,T20I # 1833
+SCOT vs IRE,SCOT,Safyaan Sharif,3,0,32,1,10.66,3,4,0,1,0,T20I # 1833
+SCOT vs IRE,SCOT,Chris Greaves,2,0,18,0,9.00,1,0,1,1,0,T20I # 1833
+SCOT vs IRE,SCOT,Michael Leask,2,0,16,1,8.00,2,1,0,0,0,T20I # 1833
+SL vs UAE,UAE,Junaid Siddique,4,0,36,0,9.00,8,2,1,2,0,T20I # 1832
+SL vs UAE,UAE,Kashif Daud,1,0,14,0,14.00,0,2,0,0,0,T20I # 1832
+SL vs UAE,UAE,Zahoor Khan,4,0,26,2,6.50,10,3,0,0,0,T20I # 1832
+SL vs UAE,UAE,Aayan Afzal Khan,3,0,16,1,5.33,7,1,0,0,0,T20I # 1832
+SL vs UAE,UAE,Aryan Lakra,3,0,24,1,8.00,5,3,0,0,0,T20I # 1832
+SL vs UAE,UAE,Karthik Meiyappan,4,0,19,3,4.75,12,0,1,0,0,T20I # 1832
+SL vs UAE,UAE,Basil Hameed,1,0,13,0,13.00,1,1,1,0,0,T20I # 1832
+SL vs UAE,SL,Pramod Madushan,3,0,14,1,4.66,12,2,0,1,0,T20I # 1832
+SL vs UAE,SL,Maheesh Theekshana,3.1,0,15,2,4.73,10,2,0,0,0,T20I # 1832
+SL vs UAE,SL,Dushmantha Chameera,3.5,0,15,3,3.91,16,0,1,0,0,T20I # 1832
+SL vs UAE,SL,Chamika Karunaratne,2,0,14,0,7.00,5,2,0,0,0,T20I # 1832
+SL vs UAE,SL,Wanindu Hasaranga,4,1,8,3,2.00,17,0,0,0,0,T20I # 1832
+SL vs UAE,SL,Dasun Shanaka,1.1,0,7,1,6.00,3,0,0,1,0,T20I # 1832
+NAM vs NED,NED,Fred Klaassen,3,0,15,0,5.00,11,1,0,0,0,T20I # 1830
+NAM vs NED,NED,Tim Pringle,3,0,15,1,5.00,8,0,0,0,0,T20I # 1830
+NAM vs NED,NED,Bas de Leede,3,0,18,2,6.00,6,1,0,0,0,T20I # 1830
+NAM vs NED,NED,Colin Ackermann,3,0,17,1,5.66,8,2,0,0,0,T20I # 1830
+NAM vs NED,NED,Paul van Meekeren,4,0,18,1,4.50,11,1,0,1,0,T20I # 1830
+NAM vs NED,NED,Timm van der Gugten,3,0,29,0,9.66,4,1,1,2,0,T20I # 1830
+NAM vs NED,NED,Roelof van der Merwe,1,0,6,1,6.00,1,0,0,1,0,T20I # 1830
+NAM vs NED,NAM,Bernard Scholtz,4,0,21,1,5.25,10,0,1,0,0,T20I # 1830
+NAM vs NED,NAM,David Wiese,2.3,0,22,0,8.80,4,3,0,0,0,T20I # 1830
+NAM vs NED,NAM,Gerhard Erasmus,3,0,13,0,4.33,8,0,0,1,0,T20I # 1830
+NAM vs NED,NAM,Ben Shikongo,1,0,18,0,18.00,1,0,2,1,0,T20I # 1830
+NAM vs NED,NAM,JJ Smit,4,0,24,2,6.00,9,2,0,0,0,T20I # 1830
+NAM vs NED,NAM,Jan Frylinck,4,1,16,1,4.00,11,1,0,0,0,T20I # 1830
+NAM vs NED,NAM,Jan Nicol Loftie-Eaton,1,0,8,0,8.00,2,1,0,0,1,T20I # 1830
+ZIM vs IRE,IRE,Josh Little,4,0,24,3,6.00,11,3,0,0,0,T20I # 1828
+ZIM vs IRE,IRE,Mark Adair,4,0,39,2,9.75,6,3,1,2,0,T20I # 1828
+ZIM vs IRE,IRE,Barry McCarthy,4,0,24,0,6.00,11,2,0,2,0,T20I # 1828
+ZIM vs IRE,IRE,Curtis Campher,3,0,29,0,9.66,6,2,2,0,0,T20I # 1828
+ZIM vs IRE,IRE,Simi Singh,3,0,31,2,10.33,5,2,2,1,0,T20I # 1828
+ZIM vs IRE,IRE,Gareth Delany,2,0,21,0,10.50,4,2,1,1,0,T20I # 1828
+ZIM vs IRE,ZIM,Richard Ngarava,4,0,22,2,5.50,13,3,0,0,0,T20I # 1828
+ZIM vs IRE,ZIM,Tendai Chatara,4,0,22,2,5.50,13,1,1,2,0,T20I # 1828
+ZIM vs IRE,ZIM,Blessing Muzarabani,4,0,23,3,5.75,14,0,2,0,1,T20I # 1828
+ZIM vs IRE,ZIM,Luke Jongwe,2,0,24,0,12.00,1,4,0,0,0,T20I # 1828
+ZIM vs IRE,ZIM,Sean Williams,3,0,20,1,6.66,3,0,0,0,0,T20I # 1828
+ZIM vs IRE,ZIM,Sikandar Raza,3,0,22,1,7.33,8,1,1,1,0,T20I # 1828
+SCOT vs WI,WI,Kyle Mayers,2,0,24,0,12.00,5,5,0,2,0,T20I # 1826
+SCOT vs WI,WI,Akeal Hosein,4,0,31,0,7.75,8,2,1,0,0,T20I # 1826
+SCOT vs WI,WI,Alzarri Joseph,4,0,28,2,7.00,9,3,0,2,0,T20I # 1826
+SCOT vs WI,WI,Obed McCoy,3,0,25,0,8.33,6,4,0,0,0,T20I # 1826
+SCOT vs WI,WI,Jason Holder,3,0,14,2,4.66,8,1,0,0,0,T20I # 1826
+SCOT vs WI,WI,Odean Smith,4,0,31,1,7.75,6,3,0,1,0,T20I # 1826
+SCOT vs WI,SCOT,Mark Watt,4,0,12,3,3.00,16,1,0,1,0,T20I # 1826
+SCOT vs WI,SCOT,Brad Wheal,4,0,32,2,8.00,10,4,1,0,0,T20I # 1826
+SCOT vs WI,SCOT,Josh Davey,3,0,34,1,11.33,8,4,2,1,0,T20I # 1826
+SCOT vs WI,SCOT,Safyaan Sharif,3.3,0,23,1,6.57,7,2,0,2,0,T20I # 1826
+SCOT vs WI,SCOT,Michael Leask,4,0,15,2,3.75,11,0,0,1,0,T20I # 1826
+UAE vs NED,NED,Fred Klaassen,4,0,13,2,3.25,18,0,0,3,0,T20I # 1825
+UAE vs NED,NED,Tim Pringle,4,0,13,1,3.25,11,0,0,0,0,T20I # 1825
+UAE vs NED,NED,Logan van Beek,2,0,19,0,9.50,5,0,2,1,0,T20I # 1825
+UAE vs NED,NED,Bas de Leede,3,0,19,3,6.33,9,2,0,2,0,T20I # 1825
+UAE vs NED,NED,Paul van Meekeren,4,0,21,0,5.25,11,1,0,0,0,T20I # 1825
+UAE vs NED,NED,Roelof van der Merwe,3,0,19,1,6.33,7,0,1,0,0,T20I # 1825
+UAE vs NED,UAE,Junaid Siddique,4,0,24,3,6.00,10,2,0,1,0,T20I # 1825
+UAE vs NED,UAE,Basil Hameed,1,0,7,1,7.00,4,0,1,0,0,T20I # 1825
+UAE vs NED,UAE,Aayan Afzal Khan,3,0,15,1,5.00,8,1,0,0,0,T20I # 1825
+UAE vs NED,UAE,Karthik Meiyappan,4,0,22,1,5.50,11,2,0,0,0,T20I # 1825
+UAE vs NED,UAE,Zahoor Khan,4,0,11,1,2.75,14,0,0,0,0,T20I # 1825
+UAE vs NED,UAE,Zawar Farid,2.5,0,24,0,8.47,2,2,0,0,0,T20I # 1825
+UAE vs NED,UAE,Kashif Daud,1,0,5,0,5.00,1,0,0,0,0,T20I # 1825
+NAM vs SL,SL,Maheesh Theekshana,4,0,23,1,5.75,7,0,0,2,0,T20I # 1823
+NAM vs SL,SL,Dushmantha Chameera,4,0,39,1,9.75,6,3,1,2,0,T20I # 1823
+NAM vs SL,SL,Pramod Madushan,4,0,37,2,9.25,6,3,1,0,0,T20I # 1823
+NAM vs SL,SL,Chamika Karunaratne,4,0,36,1,9.00,7,3,1,1,0,T20I # 1823
+NAM vs SL,SL,Wanindu Hasaranga,4,0,27,1,6.75,8,1,1,0,0,T20I # 1823
+NAM vs SL,NAM,Gerhard Erasmus,1,0,8,0,8.00,1,1,0,0,0,T20I # 1823
+NAM vs SL,NAM,David Wiese,4,0,16,2,4.00,13,1,0,0,0,T20I # 1823
+NAM vs SL,NAM,Bernard Scholtz,4,0,18,2,4.50,10,1,0,0,0,T20I # 1823
+NAM vs SL,NAM,Ben Shikongo,3,1,22,2,7.33,6,3,0,0,0,T20I # 1823
+NAM vs SL,NAM,JJ Smit,3,0,16,1,5.33,7,0,0,1,0,T20I # 1823
+NAM vs SL,NAM,Jan Frylinck,4,0,26,2,6.50,10,0,2,1,0,T20I # 1823
